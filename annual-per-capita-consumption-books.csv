@@ -1,0 +1,99 @@
+Entity,Code,Year,Annual per capita consumption of books
+Belgium,BEL,1475,0.0047
+Belgium,BEL,1525,0.0177
+Belgium,BEL,1575,0.0482
+Belgium,BEL,1625,0.0332
+Belgium,BEL,1675,0.0736
+Belgium,BEL,1725,0.0307
+Belgium,BEL,1775,0.0445
+France,FRA,1475,0.0032
+France,FRA,1525,0.0299
+France,FRA,1575,0.0337
+France,FRA,1625,0.0522
+France,FRA,1675,0.0701
+France,FRA,1725,0.0587
+France,FRA,1775,0.1179
+Germany,DEU,1475,0.0041
+Germany,DEU,1525,0.0212
+Germany,DEU,1575,0.0434
+Germany,DEU,1625,0.054
+Germany,DEU,1675,0.0787
+Germany,DEU,1725,0.0997
+Germany,DEU,1775,0.1224
+Great Britain,,1475,0.002
+Great Britain,,1525,0.0146
+Great Britain,,1575,0.0273
+Great Britain,,1625,0.08
+Great Britain,,1675,0.1918
+Great Britain,,1725,0.1683
+Great Britain,,1775,0.192
+Ireland,IRL,1475,0
+Ireland,IRL,1525,0
+Ireland,IRL,1575,0.0001
+Ireland,IRL,1625,0.0038
+Ireland,IRL,1675,0.0142
+Ireland,IRL,1725,0.0617
+Ireland,IRL,1775,0.0777
+Italy,ITA,1475,0.0068
+Italy,ITA,1525,0.0213
+Italy,ITA,1575,0.051
+Italy,ITA,1625,0.0421
+Italy,ITA,1675,0.0563
+Italy,ITA,1725,0.0484
+Italy,ITA,1775,0.0865
+Netherlands,NLD,1475,0.0079
+Netherlands,NLD,1525,0.0142
+Netherlands,NLD,1575,0.0335
+Netherlands,NLD,1625,0.139
+Netherlands,NLD,1675,0.2594
+Netherlands,NLD,1725,0.3913
+Netherlands,NLD,1775,0.4883
+Other countries,,1475,0
+Other countries,,1525,0.0011
+Other countries,,1575,0.0015
+Other countries,,1625,0.002
+Other countries,,1675,0.0045
+Other countries,,1725,0.0048
+Other countries,,1775,0.0175
+Poland,POL,1475,0
+Poland,POL,1525,0.0002
+Poland,POL,1575,0.0005
+Poland,POL,1625,0.0057
+Poland,POL,1675,0.0062
+Poland,POL,1725,0.0099
+Poland,POL,1775,0.0225
+Russia,RUS,1475,0
+Russia,RUS,1525,0
+Russia,RUS,1575,0
+Russia,RUS,1625,0
+Russia,RUS,1675,0.0001
+Russia,RUS,1725,0.0008
+Russia,RUS,1775,0.0058
+Spain,ESP,1475,0.0009
+Spain,ESP,1525,0.0042
+Spain,ESP,1575,0.0043
+Spain,ESP,1625,0.0088
+Spain,ESP,1675,0.0143
+Spain,ESP,1725,0.0185
+Spain,ESP,1775,0.0283
+Sweden,SWE,1475,0.0002
+Sweden,SWE,1525,0.0008
+Sweden,SWE,1575,0.0011
+Sweden,SWE,1625,0.0397
+Sweden,SWE,1675,0.0585
+Sweden,SWE,1725,0.0838
+Sweden,SWE,1775,0.2089
+Switzerland,CHE,1475,0.0093
+Switzerland,CHE,1525,0.0481
+Switzerland,CHE,1575,0.0785
+Switzerland,CHE,1625,0.0093
+Switzerland,CHE,1675,0.0146
+Switzerland,CHE,1725,0.0142
+Switzerland,CHE,1775,0.0323
+Western Europe,,1475,0.0031
+Western Europe,,1525,0.0175
+Western Europe,,1575,0.0291
+Western Europe,,1625,0.0406
+Western Europe,,1675,0.0667
+Western Europe,,1725,0.0667
+Western Europe,,1775,0.1224

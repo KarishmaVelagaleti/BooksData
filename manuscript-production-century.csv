@@ -1,0 +1,111 @@
+Entity,Code,Year,Manuscript production per century
+Austria,AUT,550,0
+Austria,AUT,650,0
+Austria,AUT,750,2735
+Austria,AUT,850,9414
+Austria,AUT,950,0
+Austria,AUT,1050,2808
+Austria,AUT,1150,37370
+Austria,AUT,1250,37408
+Austria,AUT,1350,39777
+Austria,AUT,1450,88623
+Belgium,BEL,550,0
+Belgium,BEL,650,127
+Belgium,BEL,750,1111
+Belgium,BEL,850,3029
+Belgium,BEL,950,1555
+Belgium,BEL,1050,8529
+Belgium,BEL,1150,43219
+Belgium,BEL,1250,119588
+Belgium,BEL,1350,106148
+Belgium,BEL,1450,572124
+Bohemia,,550,0
+Bohemia,,650,0
+Bohemia,,750,0
+Bohemia,,850,0
+Bohemia,,950,0
+Bohemia,,1050,657
+Bohemia,,1150,1136
+Bohemia,,1250,5377
+Bohemia,,1350,42066
+Bohemia,,1450,45363
+British Isles,,550,81
+British Isles,,650,1026
+British Isles,,750,5474
+British Isles,,850,7926
+British Isles,,950,9793
+British Isles,,1050,20360
+British Isles,,1150,81044
+British Isles,,1250,200654
+British Isles,,1350,155513
+British Isles,,1450,208729
+Central Europe,,550,0
+Central Europe,,650,0
+Central Europe,,750,0
+Central Europe,,850,0
+Central Europe,,950,0
+Central Europe,,1050,3983
+Central Europe,,1150,27530
+Central Europe,,1250,120987
+Central Europe,,1350,301833
+Central Europe,,1450,376650
+France,FRA,550,1682
+France,FRA,650,2441
+France,FRA,750,15920
+France,FRA,850,74190
+France,FRA,950,12752
+France,FRA,1050,45061
+France,FRA,1150,197831
+France,FRA,1250,510828
+France,FRA,1350,564624
+France,FRA,1450,1195783
+Germany,DEU,550,0
+Germany,DEU,650,0
+Germany,DEU,750,7503
+Germany,DEU,850,59771
+Germany,DEU,950,45703
+Germany,DEU,1050,49548
+Germany,DEU,1150,166876
+Germany,DEU,1250,270392
+Germany,DEU,1350,293814
+Germany,DEU,1450,515116
+Iberia,,550,1594
+Iberia,,650,2512
+Iberia,,750,3770
+Iberia,,850,21693
+Iberia,,950,48763
+Iberia,,1050,40871
+Iberia,,1150,114422
+Iberia,,1250,237818
+Iberia,,1350,344284
+Iberia,,1450,390478
+Italy,ITA,550,10194
+Italy,ITA,650,4478
+Italy,ITA,750,6536
+Italy,ITA,850,20307
+Italy,ITA,950,15215
+Italy,ITA,1050,38768
+Italy,ITA,1150,95207
+Italy,ITA,1250,253013
+Italy,ITA,1350,879364
+Italy,ITA,1450,1423668
+Netherlands,NLD,550,0
+Netherlands,NLD,650,26
+Netherlands,NLD,750,60
+Netherlands,NLD,850,82
+Netherlands,NLD,950,58
+Netherlands,NLD,1050,354
+Netherlands,NLD,1150,1731
+Netherlands,NLD,1250,2066
+Netherlands,NLD,1350,13179
+Netherlands,NLD,1450,171974
+Switzerland,CHE,550,0
+Switzerland,CHE,650,30
+Switzerland,CHE,750,594
+Switzerland,CHE,850,5330
+Switzerland,CHE,950,1799
+Switzerland,CHE,1050,1090
+Switzerland,CHE,1150,2355
+Switzerland,CHE,1250,3821
+Switzerland,CHE,1350,6349
+Switzerland,CHE,1450,10652
